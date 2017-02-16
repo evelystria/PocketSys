@@ -9,11 +9,11 @@ Written in python 3
 + Profile system
 + Quiz
 + Browse online library
-[Profile system]
+- Profile system
 View user's profile which includes; Username, given name, school, course. Also tracks information about their quiz records; history, recent scores.
-[Quiz]
+- Quiz
 Based on user's school and course, the system will create a drop-down list showing their course's modules. Quiz questions will based upon the proceeding module user selected.
-[Online library]
+- Online library
 User can enter queries into the search bar, which will redirect them to opening a browser with their findings.
 
 ## Functionality
