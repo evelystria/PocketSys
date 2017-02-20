@@ -1,5 +1,5 @@
 # PocketSys
-PocketSys is lightweight app developed catering to Republic Polytechnic students. It prepares the students for their examiniations but providing them with short MCQ-quizzes, as well as a search engine to browse their online library easily for resources.
+PocketSys is lightweight app developed catering to Republic Polytechnic students. It prepares the students for their exams but providing them with short MCQ-quizzes, as well as a search engine to browse their online library easily for resources.
 
 My idea was to code this app and learn new things along the way after experiencing python for a while.
 
@@ -22,4 +22,4 @@ Due to the lack of resources and time, the development of this app has stopped. 
 
 Obviously this is not well coded, but it may serve as a pedagogy for beginners to learn!
 
-Also, you may face issues when debugging because the code uses 2 images, 'profile.jpg' and 'Quiz.png' which I did not provide in the repository. Simply replace it with other images, or don't use any.
+Also, you may face issues when debugging because the code uses 2 image files, 'profile.jpg' and 'Quiz.png' which I did not provide with the repository. Simply replace it with other images, or don't use any.
