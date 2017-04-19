@@ -1,6 +1,5 @@
 # PocketSys (version Beta-01-19/4/17)
 -Inactive-
-Initially developed for Republic Polytechnic students.
 
 ## Note!
 Due to the lack of resources and time, the development of this app has stopped. Another reason I am so lazy to continue this, I've released it online here with the source code for anyone who wish to see, learn and maybe further improve it.
