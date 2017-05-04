@@ -4,7 +4,7 @@ Written to test functionality between cross python files
 ## Libraries
 PIL, PyMySQL
 
-## Note! -> Inactive
+## NOTE!!! INACTIVTE
 Due to the lack of resources and time, I've stopped developing it. I've released the source code online for anyone who wish to see, learn and maybe further improve it.
 
 Obviously this is not well coded, but it may serve as a pedagogy for beginners to learn!
