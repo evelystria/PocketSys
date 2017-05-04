@@ -1,10 +1,10 @@
 # PocketSys (version Beta-01-19/4/17)
--Inactive-
+Written to test functionality between cross python files
 
-## Libraries used
+## Libraries
 PIL, PyMySQL
 
-## Note!
+## Note! -> Inactive
 Due to the lack of resources and time, I've stopped developing it. I've released the source code online for anyone who wish to see, learn and maybe further improve it.
 
 Obviously this is not well coded, but it may serve as a pedagogy for beginners to learn!
