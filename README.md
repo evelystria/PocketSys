@@ -1,6 +1,6 @@
 # PocketSys (version Beta-01-19/4/17)
-![image](http://i.imgur.com/fnJBYVY.png "image")
 > Written to test functionality between **cross** python files and **mysql** connection.
+![image](http://i.imgur.com/fnJBYVY.png "image")
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
