@@ -9,6 +9,7 @@ What things you need to install for this to work
 ```
 - Python 2 or 3
 - PIL, PyMySQL
+- XAMPP (Optional) for database connection
 ```
 
 ### Installing
