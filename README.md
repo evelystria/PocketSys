@@ -16,17 +16,17 @@ What things you need to install for this to work
 ### Installing
 Steps to show you how to get the env deployed and working
 
-1. To install **PIL** (Make sure you have python installed)
+* To install **PIL** (Make sure you have python installed)
 
 Opens ```command prompt```
 
 Type ```pip install Pillow```
 
 To install into a specified python version (if both exists), E.G
-```
-$ python3 -m pip install Pillow
-```
-2. To install **PyMySQL**
+
+Type ```$ python3 -m pip install Pillow``` instead
+
+* To install **PyMySQL**
 
 Opens ``` command prompt```
 
