@@ -18,9 +18,7 @@ Steps to show you how to get the env deployed and working
 
 * To install **PIL** (Make sure you have python installed)
 
-Opens ```command prompt```
-
-Type ```pip install Pillow```
+Opens ```command prompt``` and type ```pip install Pillow```
 
 To install into a specified python version (if both exists), E.G
 
@@ -28,9 +26,7 @@ Type ```$ python3 -m pip install Pillow``` instead
 
 * To install **PyMySQL**
 
-Opens ``` command prompt```
-
-Type ```$ pip install PyMySQL```
+Opens ``` command prompt``` and type ```$ pip install PyMySQL```
 
 ## Running the tests
 How to get the python files fully working
