@@ -1,4 +1,4 @@
-# PocketSys (version Beta-01-19/4/17)
+# PocketSys (DEPRECATED)
 > Written to test functionality between **cross** python files and **mysql** connection.
 
 ![image](http://i.imgur.com/fnJBYVY.png "image")
